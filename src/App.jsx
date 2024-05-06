@@ -9,7 +9,7 @@ import Login from './Component/Login'
 import NavbarComp from './Component/NavbarComp';
 function App() {
 
-  // const username = window.prompt("Enter Username:");
+  // const username =   window.prompt("Enter Username:");
   // const password = parseInt(window.prompt("Enter Password:"));
 
   // //parseInt to convert string to no (===)
